@@ -8,7 +8,7 @@
 Notes
 -----
 
-**Feral Ghoul FSM 0.0.1a** has been tested already on Windows XP/7/10. For the library code imported into this program, you will need the book titled: Beginning Game Development with Python and Pygame 1st Edition, by Will McGugan.
+**Feral Ghoul FSM 0.0.1a** has been tested already on Windows XP/7/10. For the **gameobjects** library imported into this program, you will need the book titled: Beginning Game Development with Python and Pygame 1st Edition, by Will McGugan.
 
 The Traveller game in all forms is owned by Far Future Enterprises. Copyright 1977 - 2020 Far Future Enterprises. Traveller is a registered trademark of Far Future Enterprises.
 
