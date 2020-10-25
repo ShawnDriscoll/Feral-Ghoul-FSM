@@ -5,6 +5,15 @@
 
 **Feral Ghoul FSM 0.0.1a** is a **Classic Python 2.5** finite-state machine for modeling the behaviors of feral ghouls from Fallout 3 using NPC characteristics and modifiers from the Traveller RPG. The ghouls are spawned in an injured state and will look for ways to heal themselves.
 
+.. figure:: images/drum.png
+Feral ghouls will stand near drums to heal themselves.
+
+.. figure:: images/glowing_one.png
+Glowing feral ghouls will heal rapidly if next to a drum. They can also heal regular feral ghouls that are near them. But only when they are at 100% health.
+
+.. figure:: images/ghoul.png
+Regular feral ghouls cannot heal anything.
+
 Notes
 -----
 
